@@ -1,2 +1,2 @@
 # Applied_MachineLearning_Codes
-Exploring new techniques and topics in machine learning
+Machine learning is a rapidly growing field at the intersection of computer science and statistics that is concerned with finding patterns in data. It is responsible for tremendous advances in technology, from personalized product recommendations to speech recognition in cell phones. The goal of this is to provide a broad introduction to the key ideas in machine learning
