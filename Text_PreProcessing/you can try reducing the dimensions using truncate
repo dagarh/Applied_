@@ -1,0 +1,1 @@
+you can try reducing the dimensions using truncated SVD and then use tsne, you can have a look at MTSNE also which is a multicore version of tsne.
